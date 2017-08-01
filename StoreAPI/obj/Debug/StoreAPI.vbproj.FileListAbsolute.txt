@@ -1,0 +1,16 @@
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\obj\Debug\StoreAPI.vbprojResolveAssemblyReference.cache
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\obj\Debug\StoreAPI.Resources.resources
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\obj\Debug\StoreAPI.vbproj.GenerateResource.Cache
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\StoreAPI.dll.config
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\StoreAPI.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\StoreAPI.pdb
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\StoreAPI.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\EntityFramework.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\PagedList.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\EntityFramework.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\bin\Debug\PagedList.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\obj\Debug\StoreAPI.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\obj\Debug\StoreAPI.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreAPI\obj\Debug\StoreAPI.pdb

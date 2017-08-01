@@ -1,0 +1,17 @@
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\StoreTests.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\StoreTests.pdb
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\StoreTests.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\PagedList.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\StoreAPI.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\EntityFramework.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\StoreAPI.pdb
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\StoreAPI.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\PagedList.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\bin\Debug\EntityFramework.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\obj\Debug\StoreAPITests.vbprojResolveAssemblyReference.cache
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\obj\Debug\StoreTests.Resources.resources
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\obj\Debug\StoreAPITests.vbproj.GenerateResource.Cache
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\obj\Debug\StoreTests.dll
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\obj\Debug\StoreTests.xml
+C:\Users\k2h\Documents\Visual Studio 2015\Projects\StoreExample\StoreTests\obj\Debug\StoreTests.pdb

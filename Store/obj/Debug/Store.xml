@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Store
+</name>
+</assembly>
+<members>
+<member name="M:Store.Controllers.CatalogController.SetUsedValue(System.Object@,System.String)">
+ <summary>
+ Set value, which will be used into given object and to Session, that it is remember even if page is changed
+ </summary>
+ <param name="value">Value or Nothing</param>
+ <param name="parameterName">name which will be used for session key</param>
+</member>
+<member name="M:Store.Controllers.CatalogController.SetUsedValue(System.Object@,System.String,System.Object)">
+ <summary>
+ Set value, which will be used, into given object and to Session, that it is remember even if page is changed. If value is not found use given default.
+ </summary>
+ <param name="value">Value or Nothing</param>
+ <param name="parameterName">name which will be used for session key</param>
+ <param name="defaultValue">Value is used, if value and session does not have value</param>
+</member>
+<member name="M:Store.Controllers.ProductsController.Index">
+ <summary>
+ Show all the products
+ </summary>
+</member>
+<member name="M:Store.Controllers.ProductsController.Details(System.Nullable{System.Int32})">
+ <summary>
+ Show one of the products
+ </summary>
+ <param name="id"></param>
+</member>
+<member name="M:Store.Controllers.ProductsController.Create">
+ <summary>
+ Show view for adding
+ </summary>
+</member>
+<member name="M:Store.Controllers.ProductsController.Create(StoreAPI.Product)">
+ <summary>
+ Add given product and show the added product after that
+ </summary>
+ <param name="product">product to be added</param>
+ <returns></returns>
+</member>
+<member name="M:Store.Controllers.ProductsController.Edit(System.Nullable{System.Int32})">
+ <summary>
+ Show editing view
+ </summary>
+ <param name="id">id of the product to be edited</param>
+</member>
+<member name="M:Store.Controllers.ProductsController.Edit(StoreAPI.Product)">
+ <summary>
+ Save the given edited product and show the result
+ </summary>
+ <param name="product">edited product</param>
+</member>
+<member name="M:Store.Controllers.ProductsController.Delete(System.Nullable{System.Int32})">
+ <summary>
+ Show deleting view
+ </summary>
+ <param name="id">id of the deleted item</param>
+</member>
+<member name="M:Store.Controllers.ProductsController.DeleteConfirmed(System.Int32)">
+ <summary>
+ Delete product with given id and show the list of products after that
+ </summary>
+ <param name="id">id of the product to be deleted</param>
+</member>
+<member name="M:Store.Controllers.ShoppingBasketController.Edit(System.Nullable{System.Int32})">
+ <summary>
+ Show editing view
+ </summary>
+ <param name="id">id of the shopping basket item to be edited</param>
+</member>
+<member name="M:Store.Controllers.ShoppingBasketController.Edit(StoreAPI.ShoppingBasketItem)">
+ <summary>
+ Save the given edited shopping basket item and show the result
+ </summary>
+ <param name="basketItem">edited shopping basket item</param>
+</member>
+</members>
+</doc>

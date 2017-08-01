@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+StoreAPI
+</name>
+</assembly>
+<members>
+<member name="T:StoreAPI.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:StoreAPI.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:StoreAPI.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:StoreAPI.DatabaseObjectNotFoundException">
+ <summary>
+ Object with searched id did not exist in the database
+ </summary>
+</member>
+<member name="T:StoreAPI.OutOfStockException">
+ <summary>
+ Searched product's amount was too small to make purchase
+ </summary>
+</member>
+<member name="T:StoreAPI.GroupingCondition">
+ <summary>
+ This class tells one condtion by which products are filtered.
+ </summary>
+</member>
+<member name="P:StoreAPI.GroupingCondition.minValueIsInclude">
+ <summary>
+ Is the minimum value included in search are only items bigger than it included
+ </summary>
+</member>
+<member name="P:StoreAPI.GroupingCondition.maxValueIsInclude">
+ <summary>
+ Is the maximum value included in search are only items under it included
+ </summary>
+</member>
+<member name="M:StoreAPI.ProductSearchFilter.GetGroupedProducts(System.Collections.Generic.IEnumerable{StoreAPI.Product},System.Collections.Generic.List{StoreAPI.GroupingCondition})">
+ <summary>
+ Returns given list grouped with given criterias. If criterias are not given returns empty result.
+ </summary>
+</member>
+<member name="M:StoreAPI.IProductAPI.GetProducts(System.String,System.String,System.String,System.String,System.Nullable{System.Int32},System.Nullable{System.Int32})">
+ <summary>
+ Get all products matching to given conditions. List is paged with given conditions. 
+ If no conditions are given all the products are returned
+ </summary>
+</member>
+<member name="M:StoreAPI.IProductAPI.GetGroupedProducts(System.Collections.Generic.List{StoreAPI.GroupingCondition})">
+ <summary>
+ Products are returned grouped by given conditions. Depending on the conditions products can exists in multiple gorups.
+ If conditions are not given empty result is returned.
+ </summary>
+</member>
+</members>
+</doc>
